@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Programming\C#\_221703_Veksha\_221703_Veksha\bin\Debug\_221703_Veksha.exe.config
+C:\Users\user\Desktop\Programming\C#\_221703_Veksha\_221703_Veksha\bin\Debug\_221703_Veksha.exe
+C:\Users\user\Desktop\Programming\C#\_221703_Veksha\_221703_Veksha\bin\Debug\_221703_Veksha.pdb
+C:\Users\user\Desktop\Programming\C#\_221703_Veksha\_221703_Veksha\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\Programming\C#\_221703_Veksha\_221703_Veksha\bin\Debug\AutoMapper.xml
+C:\Users\user\Desktop\Programming\C#\_221703_Veksha\_221703_Veksha\obj\Debug\_221703_Veksha.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programming\C#\_221703_Veksha\_221703_Veksha\obj\Debug\_221703_Veksha.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Programming\C#\_221703_Veksha\_221703_Veksha\obj\Debug\_221703_Veksha.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programming\C#\_221703_Veksha\_221703_Veksha\obj\Debug\_221703_Veksha.csproj.CopyComplete
+C:\Users\user\Desktop\Programming\C#\_221703_Veksha\_221703_Veksha\obj\Debug\_221703_Veksha.exe
+C:\Users\user\Desktop\Programming\C#\_221703_Veksha\_221703_Veksha\obj\Debug\_221703_Veksha.pdb

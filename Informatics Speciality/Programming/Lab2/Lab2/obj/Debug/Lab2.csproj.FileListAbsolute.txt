@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\Programming\C#\Programming Labs\Lab1\bin\Debug\Programming Labs.exe.config
+C:\Users\user\Desktop\Programming\C#\Programming Labs\Lab1\bin\Debug\Programming Labs.exe
+C:\Users\user\Desktop\Programming\C#\Programming Labs\Lab1\bin\Debug\Programming Labs.pdb
+C:\Users\user\Desktop\Programming\C#\Programming Labs\Lab1\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Programming\C#\Programming Labs\Lab1\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Programming\C#\Programming Labs\Lab1\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programming\C#\Programming Labs\Lab1\obj\Debug\Programming Labs.exe
+C:\Users\user\Desktop\Programming\C#\Programming Labs\Lab1\obj\Debug\Programming Labs.pdb
