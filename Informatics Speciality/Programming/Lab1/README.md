@@ -30,7 +30,6 @@
 <h4 align="left">13. Скомпилированный файл для режима отладки</h4>
 <img src="https://github.com/STVR1/BSUIR/blob/main/Informatics%20Speciality/Programming/Lab1/screens/16.png">
 <h4 align="left">14. Пошаговое выполнение программы с показом значений переменных</h4>
-<img src="https://github.com/STVR1/BSUIR/blob/main/Informatics%20Speciality/Programming/Lab1/screens/17.png">
 <img src="https://github.com/STVR1/BSUIR/blob/main/Informatics%20Speciality/Programming/Lab1/screens/18.png">
 <img src="https://github.com/STVR1/BSUIR/blob/main/Informatics%20Speciality/Programming/Lab1/screens/19.png">
 <img src="https://github.com/STVR1/BSUIR/blob/main/Informatics%20Speciality/Programming/Lab1/screens/20.png">
