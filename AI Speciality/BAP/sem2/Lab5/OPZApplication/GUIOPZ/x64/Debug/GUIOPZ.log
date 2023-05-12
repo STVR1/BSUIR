@@ -1,0 +1,5 @@
+﻿  OPZForm.cpp
+C:\Users\user\Desktop\Programming\C++\sem2\Lab5\OPZApplication\GUIOPZ\OPZForm.h(321,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  OPZForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+Classes.lib(Stack.obj) : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  GUIOPZ.vcxproj -> C:\Users\user\Desktop\Programming\C++\sem2\Lab5\OPZApplication\x64\Debug\GUIOPZ.exe
